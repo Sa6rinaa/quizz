@@ -1,4 +1,5 @@
 # quizz
+```graphql
 slam_sisr_quiz/
 │
 ├── app.py               # Le fichier Python principal (backend)
@@ -14,3 +15,4 @@ slam_sisr_quiz/
 │   └── images/
 │       └── logo.png     # Image de ton logo ou autre image
 └── requirements.txt     # Liste des dépendances
+```
